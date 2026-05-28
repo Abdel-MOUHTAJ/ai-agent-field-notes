@@ -32,6 +32,7 @@ I focus on the operational layer of AI agents:
 | ID | Field Note | Status | Focus |
 |---:|---|---|---|
 | 001 | [Google Jules ↔ Antigravity CLI](field-notes/001-jules-antigravity-cli/) | MVP | Jules CLI authentication, GitHub App mapping, GitHub CLI auth, Git porcelain guard, local governance |
+| 002 | [Making Google Jules Actually Report Back Through Antigravity CLI](field-notes/002-jules-antigravity-cli-interaction.md) | MVP 2 | Remote Jules sessions, explicit repository targeting, read-only result retrieval, Jules-authored reports, positive allowlist prompting, human-controlled apply/commit/push |
 
 ---
 
