@@ -7,15 +7,15 @@ Title: **Ops Consultant — AI Agents, CLI Workflows & Local Governance**
 
 ---
 
-## About this repository
+## Start Here
 
-This repository collects real-world field notes on emerging AI agent tooling.
+This repository is the public landing page for a growing series of operational field notes.
 
-The goal is simple:
+It exists to document real integrations, the failure modes they expose, and the guardrails required to make them reproducible.
 
 > Test unstable tools, stabilize the workflow, document the failure modes, and publish reproducible runbooks.
 
-I focus on the operational layer of AI agents:
+## What This Repository Covers
 
 - CLI workflows
 - GitHub integrations
@@ -25,9 +25,16 @@ I focus on the operational layer of AI agents:
 - human-in-the-loop validation
 - failure-mode documentation
 
+## What This Repository Is Not
+
+- not a generic AI hype page
+- not a code dump
+- not a tutorial farm
+- not a secret-bearing operational log
+
 ---
 
-## Field Notes
+## Published Notes
 
 | ID | Field Note | Status | Focus |
 |---:|---|---|---|
@@ -36,14 +43,27 @@ I focus on the operational layer of AI agents:
 
 ---
 
-## Methodology
+## Method
 
-Every field note follows the same process:
+Every field note follows the same workflow:
 
-1. **Test** — reproduce the real-world integration.
-2. **Break** — identify silent failures, misleading success states, and documentation gaps.
-3. **Stabilize** — add wrappers, checks, guardrails, or operational rules.
-4. **Document** — publish a reproducible field note with failed hypotheses and lessons learned.
+1. **Test** - reproduce the real-world integration.
+2. **Break** - identify silent failures, misleading success states, and documentation gaps.
+3. **Stabilize** - add wrappers, checks, guardrails, or operational rules.
+4. **Document** - publish a reproducible field note with failed hypotheses and lessons learned.
+
+---
+
+## Why This Matters
+
+The value here is not only that the tools work.
+
+The value is that they can be made:
+
+- auditable
+- reproducible
+- governed
+- usable in real operations
 
 ---
 
