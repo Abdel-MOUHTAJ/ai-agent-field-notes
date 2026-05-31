@@ -65,6 +65,11 @@ The value is that they can be made:
 - governed
 - usable in real operations
 
+## Governance
+
+- [Contributing](CONTRIBUTING.md)
+- [Security](SECURITY.md)
+
 ---
 
 ## Core Principle
