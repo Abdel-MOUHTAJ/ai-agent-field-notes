@@ -15,6 +15,37 @@ Status: **MVP 2 field documentation — sanitized public version**
 
 ---
 
+## Tested Environment
+
+| Item | Value |
+|---|---|
+| Field validation date | 2026-05-28 |
+| Machine | Ubuntu workstation |
+| OS | Ubuntu 24.04.4 LTS |
+| Local workspace | Antigravity CLI project, codename `Tesla` |
+| Local project root | `/home/[USERNAME]/antigravity-workspace` |
+| GitHub repository | Dedicated private repository |
+| Jules CLI version observed | `v0.1.42` |
+| GitHub CLI version observed | `gh 2.45.0` |
+
+---
+
+## Important Security Notice
+
+This document is a **sanitized field note**.
+
+It intentionally omits:
+
+- OAuth callback links
+- one-time authorization codes
+- tokens
+- private credentials
+- raw logs
+- secret files
+- personal local paths that are not required to reproduce the integration pattern
+
+---
+
 ## 1. Executive Summary
 
 The first MVP proved that Google Jules could be connected to a local Antigravity CLI workflow through GitHub.
