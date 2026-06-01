@@ -40,7 +40,6 @@ It exists to document real integrations, the failure modes they expose, and the 
 |---:|---|---|---|
 | 001 | [Google Jules ↔ Antigravity CLI](field-notes/001-jules-antigravity-cli/) | MVP | Jules CLI authentication, GitHub App mapping, GitHub CLI auth, Git porcelain guard, local governance |
 | 002 | [Making Google Jules Actually Report Back Through Antigravity CLI](field-notes/002-jules-antigravity-cli-interaction.md) | MVP 2 | Remote Jules sessions, explicit repository targeting, read-only result retrieval, Jules-authored reports, positive allowlist prompting, human-controlled apply/commit/push |
-| 003 | [Governor Memory](field-notes/003-governor-memory.md) | MVP 3 | Governed persistent memory, Markdown-first canonical memory, secret-aware sanitization, rollback-ready writes |
 | Index | [Field Notes Series Index](field-notes/README.md) | Active | Canonical series overview, structure, and writing standard |
 
 ---
