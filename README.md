@@ -42,6 +42,7 @@ It exists to document real integrations, the failure modes they expose, and the 
 | 002 | [Making Google Jules Actually Report Back Through Antigravity CLI](field-notes/002-jules-antigravity-cli-interaction.md) | MVP 2 | Remote Jules sessions, explicit repository targeting, read-only result retrieval, Jules-authored reports, positive allowlist prompting, human-controlled apply/commit/push |
 | 003 | [Governor Memory](field-notes/003-governor-memory.md) | MVP 3 | Governed persistent memory, Markdown-first canonical memory, secret-aware sanitization, rollback-ready writes |
 | 004 | [mvp-github-writer](field-notes/004-mvp-github-writer.md) | MVP 4 | Local Codex skill laboratory, GitHub-ready MVP documentation, SkillOpt optimization, governed Markdown output |
+| 005 | [Hermes SOUL](field-notes/005-hermes-soul/) | MVP 5 | Minimal viable personality layer for local AI agents, SOUL.md identity file, prompt-marker validation, restart-aware behavior testing |
 | Index | [Field Notes Series Index](field-notes/README.md) | Active | Canonical series overview, structure, and writing standard |
 
 ---
