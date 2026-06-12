@@ -44,7 +44,6 @@ It exists to document real integrations, the failure modes they expose, and the 
 | 004 | [mvp-github-writer](field-notes/004-mvp-github-writer.md) | MVP 4 | Local Codex skill laboratory, GitHub-ready MVP documentation, SkillOpt optimization, governed Markdown output |
 | 005 | [Hermes SOUL](field-notes/005-hermes-soul/) | MVP 5 | Minimal viable personality layer for local AI agents, SOUL.md identity file, prompt-marker validation, restart-aware behavior testing |
 | 006 | [Codex Vortex Second Living Brain](field-notes/006-codex-vortex-second-living-brain.md) | MVP 6 | Governed local second brain, Vortex knowledge vault, session reprise, health checks, divergence checks, preflight checks, Git proof |
-| 007 | [Context Engineering for Codex CLI](field-notes/007-context-engineering-for-codex-cli.md) | MVP 7 | Governed Codex CLI workspace, canonical spine, reversible derived views, human validation, GitHub-ready publication |
 | Index | [Field Notes Series Index](field-notes/README.md) | Active | Canonical series overview, structure, and writing standard |
 
 ---
