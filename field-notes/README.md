@@ -21,6 +21,7 @@ This directory contains the public series of field notes for `ai-agent-field-not
 | 005 | [Hermes SOUL](005-hermes-soul/) | MVP 5 | Minimal viable personality layer for local AI agents, SOUL.md identity file, prompt-marker validation, restart-aware behavior testing |
 | 006 | [Codex Vortex Second Living Brain](006-codex-vortex-second-living-brain.md) | MVP 6 | Governed local second brain, Vortex vault, session reprise, health checks, divergence checks, Git proof |
 | 007 | [Context Engineering for Codex CLI](007-context-engineering-for-codex-cli.md) | MVP 7 | Governed Codex CLI workspace with ULTIMA and Playbook companion summaries |
+
 ## Writing Standard
 
 Each note should use the same editorial spine:
